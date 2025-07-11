@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tony-42069-solana-mcp-badge.png)](https://mseep.ai/app/tony-42069-solana-mcp)
+
 # Solana-MCP
 Solana Agent Kit MCP Server
 
